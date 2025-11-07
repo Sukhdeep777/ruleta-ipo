@@ -7,6 +7,7 @@ Esta ruleta ha sido creada con ChatGPT para los torneos de IPO (Assignatura de c
 
 - ChatGPT
 - Google Para los GIFS
+- Pixabay para el logo
 
 ## Lenguajes utilizados
 
