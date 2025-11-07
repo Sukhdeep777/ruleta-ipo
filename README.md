@@ -1,1 +1,15 @@
 # Ruleta
+
+## Contexto 
+Esta ruleta ha sido creada con ChatGPT para los torneos de IPO (Assignatura de classe de SMX2).
+
+## Referencias
+
+- ChatGPT
+- Google Para los GIFS
+
+## Lenguajes utilizados
+
+- HTML
+- CSS
+- JavaScript
